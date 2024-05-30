@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <MainStyle/>
-    <BrowserRouter basename='/firebase'>
+    <BrowserRouter basename='/firebase/'>
       <Routes>
 
       <Route path='/' element={<Main/>} />
