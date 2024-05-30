@@ -2321,4 +2321,4 @@ table {
     .inner { width:1400px; margin:auto; box-sizing:border-box; position: relative;
     }
 
-`;function VC(){return N.jsxs(N.Fragment,{children:[N.jsx(BC,{}),N.jsx(XE,{basename:"/firebase/",children:N.jsxs(HE,{children:[N.jsx(ni,{path:"/",element:N.jsx(zC,{})}),N.jsx(ni,{path:"/login",element:N.jsx(jC,{})}),N.jsx(ni,{path:"/join",element:N.jsx($C,{})}),N.jsx(ni,{path:"/good",element:N.jsx(FC,{})})]})})]})}Qa.createRoot(document.getElementById("root")).render(N.jsx(ae.StrictMode,{children:N.jsx(VC,{})}));
+`;function VC(){return N.jsxs(N.Fragment,{children:[N.jsx(BC,{}),N.jsx(XE,{basename:"/firebase",children:N.jsxs(HE,{children:[N.jsx(ni,{path:"/",element:N.jsx(zC,{})}),N.jsx(ni,{path:"/login",element:N.jsx(jC,{})}),N.jsx(ni,{path:"/join",element:N.jsx($C,{})}),N.jsx(ni,{path:"/good",element:N.jsx(FC,{})})]})})]})}Qa.createRoot(document.getElementById("root")).render(N.jsx(ae.StrictMode,{children:N.jsx(VC,{})}));
