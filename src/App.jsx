@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Login from './components/Login/Login'
 import {BrowserRouter,Route,Routes } from 'react-router-dom'
 import Join from './components/Login/Join'
@@ -11,7 +10,7 @@ function App() {
   return (
     <>
     <MainStyle/>
-    <BrowserRouter>
+    <BrowserRouter basename='/firebase'>
       <Routes>
 
       <Route path='/' element={<Main/>} />
